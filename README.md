@@ -34,9 +34,10 @@ npm run electron-build
 ```
 
 4. 创建项目，配置模型名称、modelName、API URL 和 API Key
+
 > Tips:
->   modelname是 API 文档里那个，e.g. moonshot-v1-8k，而不是 Kimi
->   API URL 需要完整的地址，而不是 EndPoint
+- modelname是 API 文档里那个，e.g. moonshot-v1-8k，而不是 Kimi
+- API URL 需要完整的地址，而不是 EndPoint
 
 ##  ToDo-List
 
